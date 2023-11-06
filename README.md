@@ -1,1 +1,3 @@
-# raspoznovanie_text_easyocr
+устанавливаем easyocr с помощью pip
+распознование печатного текста с картинки
+ввод юзером название картинки с разрешением этой картинки# raspoznovanie_text_easyocr
