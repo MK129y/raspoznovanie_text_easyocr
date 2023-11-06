@@ -1,0 +1,1 @@
+# raspoznovanie_text_easyocr
